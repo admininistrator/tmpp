@@ -1,0 +1,14 @@
+﻿Zone_Name,Population_Density,Daytime_Population,zone_empty,density_invalid,density_missing,density_negative,daytime_pop_invalid,daytime_missing,daytime_negative
+Cornertown,59524,59226,False,False,False,False,False,False,False
+Downtown,89286,258928,False,False,False,False,False,False,False
+Eastside,178571,125000,False,False,False,False,False,False,False
+Lakeside,297619,181548,False,False,False,False,False,False,False
+Northville,119048,95238,False,False,False,False,False,False,False
+Plainville,208333,147916,False,False,False,False,False,False,False
+Riverside,238095,230952,False,False,False,False,False,False,False
+Smogtown,29762,27976,False,False,False,False,False,False,False
+Southville,178571,110714,False,False,False,False,False,False,False
+Suburbia,446429,392858,False,False,False,False,False,False,False
+Uptown,29762,116072,False,False,False,False,False,False,False
+Villa,178571,173214,False,False,False,False,False,False,False
+Westside,148810,282739,False,False,False,False,False,False,False

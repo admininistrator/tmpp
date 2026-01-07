@@ -1,0 +1,5 @@
+﻿Date,Weather,Average_Wind_Speed,Wind_Direction,date_invalid,Parsed_Date,weather_empty,weather_invalid,wind_speed_invalid,wind_speed_missing,wind_speed_negative,wind_dir_invalid
+5/8/2011,CLOUDY,10,NW,False,2011-05-08,False,False,False,False,False,False
+5/9/2011,CLEAR,6,NW,False,2011-05-09,False,False,False,False,False,False
+5/10/2011,CLEAR,6,WNW,False,2011-05-10,False,False,False,False,False,False
+5/11/2011,CLEAR,8,W,False,2011-05-11,False,False,False,False,False,False
